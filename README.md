@@ -1,1 +1,1 @@
-# vecor
+# vector
